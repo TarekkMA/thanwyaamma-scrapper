@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/TarekkMA/thanwyaamma-scrapper/score"
 	log "github.com/sirupsen/logrus"
-	"gitlab.com/tarekkma/thanwyaamma-scrapper/score"
 )
 
 //Scrapper2018 struct

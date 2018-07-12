@@ -6,11 +6,11 @@ import (
 	"os"
 	"sync"
 
-	"gitlab.com/tarekkma/thanwyaamma-scrapper/score"
+	"github.com/TarekkMA/thanwyaamma-scrapper/score"
 
+	"github.com/TarekkMA/thanwyaamma-scrapper/score/score2018"
 	flags "github.com/jessevdk/go-flags"
 	log "github.com/sirupsen/logrus"
-	"gitlab.com/tarekkma/thanwyaamma-scrapper/score/score2018"
 )
 
 func main() {
